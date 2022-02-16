@@ -1,0 +1,16 @@
+// @import '../../styles/base';
+
+#story--components-cards--cards-view {
+    background-color: rgb(230, 230, 230);
+    padding: 2rem;
+}
+
+.a-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin: 2rem 0;
+    background: #fff;
+    border-radius: 0.5rem;
+}
