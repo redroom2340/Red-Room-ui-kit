@@ -1,6 +1,5 @@
 {
   "name": "storybook-react-crash-course",
-  "homepage": "https://redroom2340.github.io/Red-Room-ui-kit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
